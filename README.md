@@ -2,7 +2,7 @@
 - Saya tertarik pada Pemrograman
 - Saya sedang belajar Pemrograman
 - ️ Saya ingin berkolaborasi dalam Pemrograman
-- 📫 How to reach me ufurqon2009@gmail.com
+- 📫 How to reach me afurqon2009@gmail.com
 
 <!---
 B4NGJ4G0/B4NGJ4G0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
